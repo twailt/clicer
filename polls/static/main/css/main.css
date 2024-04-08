@@ -1,0 +1,46 @@
+button {
+	border:  none;
+	background: none;
+    position: absolute;
+	background-image: 0;
+	background-repeat: no-repeat;
+  
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    outline: none;
+    color: None;
+    background-color: None;
+
+    top:39%;
+    left: 40%;
+  }
+    
+  .button:active {
+    transform: translateY(5px);
+
+
+    /* * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    } */
+    
+}
+
+body {
+  text-align: center;
+    font-size: 35px; /* або будь-який інший розмір, який вам потрібен */
+    margin: 0;
+    padding: 0;
+
+}
+
+h1{
+  font-size: 35px;
+  top:39%;
+  left: 40%;
+}
+
+
+
